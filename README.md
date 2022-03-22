@@ -1,6 +1,6 @@
 # Hello Rails App
 
-> The app is an initialization of my first rail project where I create a new rails projects and all the dependencies required. I then link it to postgresql database and create a new database for the app. The app displays the text "Hello World" in the hello.index page and has its default route set to this page.
+> The app is an initialization of my first rail project where I create a new rails projects and all the dependencies required. I then link it to postgresql database and create a new database for the app. The app displays the text "Hello World" in the hello.html page and has its default route set to this page.
 
 ## Project screenshots
 
